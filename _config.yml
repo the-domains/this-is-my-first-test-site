@@ -1,0 +1,28 @@
+name: this is my first test site
+favicon: null
+layout_spectrum: 0.9070150009356439
+typography_spectrum: 0.6155667495913804
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7027490818873048
+  lightness: 0.635206506587565
+  saturation: 0.720799024682492
+  rhythmicContrast: 0.1027876534499228
+purpose: []
